@@ -1,0 +1,48 @@
+This workshop introduces advanced Python programming concepts through the creation and explanation of Retrieval-Augmented Generation (RAG) systems. Participants will learn the essential components of RAG, implement a system, and understand its applications in modern AI.
+What participants will learn:
+● Fundamentals of RAG systems and their applications
+● Document processing and embedding creation techniques
+● Working with vector databases (e.g., FAISS)
+● Query processing and retrieval mechanisms
+● Prompt engineering for effective RAG implementation
+● Integration with Large Language Models (LLMs)
+Workshop Program (1h15):
+Introduction to RAG Systems (10 minutes)
+○ Overview of RAG architecture
+○ Applications and benefits
+DONE
+
+RAG System Schema (10 minutes)
+○ Detailed walkthrough of the RAG pipeline
+○ Components and their interactions
+
+
+Document Processing (10 minutes)
+○ Techniques for processing various document types
+○ Preparing data for embedding
+
+Embedding Creation (10 minutes)
+○ Understanding embeddings
+○ Implementing embedding models in Python
+
+Vector Database Storage (10 minutes)
+○ Introduction to FAISS
+○ Storing and indexing embeddings
+
+User Query Processing (5 minutes)
+○ Applying the embedding model to user queries
+
+Retrieval Mechanisms (10 minutes)
+○ Similarity search techniques
+○ Visualizing retrieval process with diagrams
+
+Prompt Engineering (5 minutes)
+○ Crafting effective prompts for RAG
+○ Best practices and examples
+
+LLM Integration (5 minutes)
+○ Connecting RAG output to an LLM
+○ Processing and returning responses
+
+Q&A Session (10 minutes)
+○ Answering participants' questions
